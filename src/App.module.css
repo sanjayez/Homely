@@ -1,0 +1,26 @@
+.App{
+    background: #FFFFFF;
+    max-width: 1100px;
+    margin: 0 auto;
+}
+
+.footer{
+    text-align: center;
+    margin: 1rem;
+    margin-top: 2rem;
+}
+
+
+@media only screen and (max-width: 500px) {
+    .App{
+        max-width: 480px;
+    }
+
+    .emoji{
+        font-size: 1.6rem;
+    }
+
+    .emojiHeart{
+        font-size: 1.2rem;
+    }
+}
