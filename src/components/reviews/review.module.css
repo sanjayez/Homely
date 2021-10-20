@@ -31,15 +31,20 @@
 
 .body{
     margin: 0.5rem 1rem;
-    font-weight: 100;
     font-size: 0.8rem;
     line-height: 1.2rem;
+    font-weight: 400;
 }
 
 .stars{
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+.location{
+    font-weight: 300;
+    font-size: 0.8rem;
 }
 
 @media only screen and (max-width: 500px){

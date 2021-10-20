@@ -18,21 +18,21 @@ export const strings = {
 export const reviews = [
     {
         Name: 'Krishna',
-        location: 'Mysore, karnataka',
+        location: 'Mysore, Karnataka',
         review: `“Trying to build a website, hosting pictures and payment was a hassle, and I had a hard time hiring people to set it all up. Homely made my photography business a breeze.”`,
         stars: 4.8,
         img: user1
     },
     {
         Name: 'Arfa',
-        location: 'Bangalore, karnataka',
+        location: 'Bangalore, Karnataka',
         review: `“I love to cook and I never knew how powerful online business was before using homely. My passion is my business now.”`,
         stars: 4.5,
         img: user2
     },
     {
         Name: 'Sanjana',
-        location: 'Bangalore, karnataka',
+        location: 'Bangalore, Karnataka',
         review: `“Homely helped me gain more local customers in a month than past 2 years. I never knew go online would be so easy”.`,
          stars: 4.7,
          img: user3

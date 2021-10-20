@@ -12,7 +12,7 @@ function Review() {
                     <img src={review.img} alt="user" className={Styles.avatar}/>
                     <div> 
                         <p>{review.Name}</p>
-                        <p>{review.location}</p>
+                        <p className={Styles.location}>{review.location}</p>
                     </div>
                 </div>
                 <div className={Styles.stars}>
