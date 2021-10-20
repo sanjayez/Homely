@@ -11,7 +11,7 @@ function Header() {
             </div>
             <div className={Styles.hero}>
                 <div className={Styles.heroContent}>
-                    <h2 className={Styles.head}>Social media for home businesses.</h2>
+                    <h2 className={Styles.head}>Superpower your home business.</h2>
                     <p className={Styles.subtext}>Selling online is as simple as sharing content.</p>
                     <a href="#main" className={Styles.cta}>Learn More</a>
                 </div>
